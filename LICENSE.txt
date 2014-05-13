@@ -1,0 +1,7 @@
+License
+-------
+
+This software is provided under version 3 of the GNU General Public License (GPL3)
+The details of the license can be obtained from the reference below:
+https://www.gnu.org/copyleft/gpl.html
+
